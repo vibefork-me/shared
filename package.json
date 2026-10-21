@@ -1,0 +1,10 @@
+{
+  "name": "@vibefork.me/shared",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Shared packages for Vibefork.",
+  "type": "module",
+  "workspaces": [
+    "packages/*"
+  ]
+}

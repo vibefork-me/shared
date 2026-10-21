@@ -1,0 +1,18 @@
+{
+  "name": "@vibefork.me/tokens",
+  "version": "0.0.0",
+  "description": "Design tokens for Vibefork.",
+  "type": "module",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "tokens.css",
+    "tokens.json"
+  ],
+  "exports": {
+    "./tokens.css": "./tokens.css",
+    "./tokens.json": "./tokens.json"
+  }
+}
