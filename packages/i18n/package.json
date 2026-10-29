@@ -1,0 +1,21 @@
+{
+  "name": "@vibefork.me/i18n",
+  "version": "0.0.0",
+  "description": "Languages and product glossary of Vibefork.",
+  "type": "module",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "locales.json",
+    "glossary.json"
+  ],
+  "exports": {
+    "./locales.json": "./locales.json",
+    "./glossary.json": "./glossary.json"
+  },
+  "scripts": {
+    "check": "node scripts/check.mjs"
+  }
+}
