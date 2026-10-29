@@ -23,4 +23,6 @@ import tokens from "@vibefork.me/tokens/tokens.json";
 
 ## License
 
-MIT
+[Functional Source License 1.1, MIT Future License](LICENSE.md) (FSL-1.1-MIT): you can use, read,
+modify and share the code for any purpose except a competing product; **each version becomes MIT
+two years after its release**.
