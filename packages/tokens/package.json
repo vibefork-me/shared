@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "description": "Design tokens for Vibefork.",
   "type": "module",
-  "license": "MIT",
+  "license": "FSL-1.1-MIT",
   "publishConfig": {
     "access": "public"
   },
